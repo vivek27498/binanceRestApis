@@ -4,8 +4,8 @@ import hashlib
 import hmac
 import time
 
-API_KEY = '57730420ff758f4b3efa3f0d5b86a2083103816eb5982808e32f0c1f2663bf5f'
-API_SECRET = '5270cea3b14bd90260a46ed726e061fae1dfcc677d75bbfa1a79f4d8ab6aefea'
+API_KEY = '5775f'
+API_SECRET = '527a'
 
 # Binance API base URL
 BASE_URL = 'https://testnet.binancefuture.com'
